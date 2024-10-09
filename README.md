@@ -12,6 +12,8 @@
 
  - 属性 
     - [全局属性](./属性/全局属性/CMakeLists.txt)
+    
+    - [目录属性](./属性/目录属性/CMakeLists.txt)
 
     - [目标属性](./属性/目标属性/CMakeLists.txt)
 
